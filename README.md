@@ -1,1 +1,4 @@
 # Credit-Card-Fraud-Capstone-Project
+This notebook represents a comprehensive Machine Learning Capstone Project focused on credit card fraud detection. The project follows a systematic approach to building a predictive model. The workflow begins with data preparation, where relevant datasets are loaded and consolidated. An initial exploration provides insights into the structure and content of the data. A baseline model, using logistic regression, is then established to serve as a foundation for subsequent improvements. 
+
+The project delves deeper into model tuning, employing techniques such as hyperparameter optimization and feature engineering to enhance performance. The notebook culminates in the model deployment phase, demonstrating how the trained model can be saved, loaded, and utilized for future predictions. The overarching goal is to devise an effective machine learning model to detect potentially fraudulent credit card transactions.
